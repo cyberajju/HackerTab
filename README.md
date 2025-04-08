@@ -44,7 +44,7 @@
    - **Method 2**: Manual installation:
      ```bash
      # Clone the repository
-     git clone https://github.com/cyberajju/hackertab-2025.git
+     git clone https://github.com/cyberajju/HackerTab.git
      ```
 
 2. **Manual Installation Steps**:
@@ -88,7 +88,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/cyberajju/hackertab-2025.git
+git clone https://github.com/cyberajju/HackerTab.git
 
 # Open in browser
 open index.html
