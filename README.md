@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚡ HACKERTAB 2025 ⚡</h1>
   
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="650px" alt="Hacker Animation">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyYWNjeXo2amM5YzVzdDYwM2dybmR3YTdubmRoem5yMzNncjFsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3klTgJuKy5vymEoe7/giphy.gif" width="300px" alt="Hacker Animation">
   
   <p><em>The ultimate hacking animation dashboard for your browser</em></p>
   
@@ -110,7 +110,7 @@ npm run dev
 7. **Set Default Search**: Choose your preferred search engine
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPmJonGimU9bI2A/giphy.gif" width="650px" alt="Hacker Interface">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcxOWRqYnR5N2ExaWdpeWxoejdka3B1dHJqaWdldGt5c2I4NXJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIE1Po4CoWac/giphy.gif" width="450px" alt="Hacker Interface">
 </div>
 
 ## 🔍 Search Engines
